@@ -1,0 +1,1 @@
+This is a simple tool for math equation generation of primary school quiz.
